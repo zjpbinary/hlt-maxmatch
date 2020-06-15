@@ -3,10 +3,10 @@
 
 ### 一.目录结构 ###
 .\data\:  
-  data.conll:数据文件  
-  data.txt:生成的毛文本文件  
-  word.dict:生成的词典文件  
-  data.out:生成的分词结果文件  
+    data.conll:数据文件  
+    data.txt:生成的毛文本文件  
+    word.dict:生成的词典文件  
+    data.out:生成的分词结果文件  
 .\preprocess.py:生成毛文本与词典  
 .\max-match.py:利用逆向最大匹配生成分词结果  
 .\eva.py:评价分词结果  
